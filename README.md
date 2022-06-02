@@ -1,6 +1,6 @@
 ## Hi, I'm Dave 👋 Thanks for checking out my GitHub account!
 
-I am a full-stack developer, coming from a 9 year background in aviation. While I enjoyed flying, I found a passion for code.
+I am a full-stack developer, coming from a 9 year background in aviation. I enjoyed flying, but found a passion for code.
 
 - 🔭 I’m currently working on personal projects to further develop my skills.
 - 🌱 I’m currently learning as much as I can about React!
