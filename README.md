@@ -1,6 +1,6 @@
 ## Hi, I'm Dave 👋 Thanks for checking out my GitHub account!
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; width: 100%;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=mckinnondave&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mckinnondave&theme=radical&layout=compact" />
 </div>
