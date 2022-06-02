@@ -1,7 +1,7 @@
 ## Hi, I'm Dave 👋 Thanks for checking out my GitHub account!
 
 <div style="display: flex; flex-direction: row; width: 100%;">
- <img class="img" style="width: 45%; margin-right: 10%;" src="https://github-readme-stats.vercel.app/api?username=mckinnondave&show_icons=true&theme=radical" />
+ <img class="img" style="width: 45%; height: 100%; margin-right: 10%;" src="https://github-readme-stats.vercel.app/api?username=mckinnondave&show_icons=true&theme=radical" />
  <img class="img" style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mckinnondave&theme=radical&layout=compact" />
 </div>
 
