@@ -5,6 +5,8 @@ I am a full-stack developer, coming from a 9 year background in aviation. I enjo
 - 🔭 I’m currently working on personal projects to further develop my skills.
 - 🌱 I’m currently learning as much as I can about React!
 
+If you have a minute, check out my [portfolio](https://mckinnondave.github.io/)!
+
 ### My Stats
 
 <div style="display: flex; flex-direction: row; width: 100%;">
