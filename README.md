@@ -2,8 +2,8 @@
 
 I am a full-stack developer, coming from a 9 year background in aviation. I enjoyed flying, but found a passion for code.
 
-- 🔭 I’m currently working on personal projects to further develop my skills.
-- 🌱 I’m currently learning as much as I can about React!
+- 🔭 I’m currently working on a Data Structures + Algorithms course on Udemy.
+- 🌱 I’m also currently learning as much as I can about React!
 
 If you have a minute, check out my [portfolio](https://mckinnondave.github.io/)!
 
